@@ -1,0 +1,13 @@
+.pick34-results-header { text-align: center; font-size: 150%; color: blue; }
+.pick34-results-date { text-align: center; font-weight: bold; }
+.pick34-results-drawn { text-align: center; }
+
+.lotto-results-header { text-align: center; font-size: 150%; color: blue; }
+.lotto-results-date { text-align: center; font-weight: bold; }
+.lotto-results-main { text-align: center; }
+.lotto-results-bonus { text-align: center; }
+.lotto-results-multiplier { text-align: center; font-weight: bold; }
+
+.lotto-jackpot-header { text-align: center; font-size: 150%; color: blue; }
+.lotto-jackpot-date { text-align: center; font-weight: bold; }
+.lotto-jackpot-amount { text-align: center; font-weight: bold; font-size: 200%; color: red; }
